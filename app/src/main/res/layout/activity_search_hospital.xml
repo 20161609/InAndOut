@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".search_hospital">
+
+
+    <TextView
+        android:fontFamily="@font/leferi_point_special"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="60dp"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:text="서울시 마포구"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </TextView>
+    <ScrollView
+        android:layout_centerHorizontal="true"
+        android:elevation="10dp"
+        android:padding="10dp"
+        android:layout_marginTop="110dp"
+        android:background="@drawable/custom_card"
+        android:id="@+id/scrollView"
+        android:layout_width="400dp"
+        android:layout_height="280dp">
+
+        <LinearLayout
+            android:clickable="true"
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+        </LinearLayout>
+
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/joo"
+        android:clickable="true"
+        android:layout_marginBottom="-38dp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/jooa"/>
+
+</RelativeLayout>

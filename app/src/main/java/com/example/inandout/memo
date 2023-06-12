@@ -1,0 +1,7 @@
+
+앱설치 연결시 adb설치
+-> 해당 디렉토리 path로 들어가서 .\adb.exe start-server
+
+path : cd C:\Users\dkssh\AppData\Local\Android\Sdk\platform-tools
+
+

@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/custom_shadow"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:padding="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/risk2"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:textColor="@color/black"
+                android:textSize="45dp"
+                android:textStyle="bold"
+                android:fontFamily="@font/arita4_0_b"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(위험수준)"/>
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/light2"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="13dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/light_caution"/>
+
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#66bdbdbd" />
+        <TextView
+            android:id="@+id/cnt2"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:fontFamily="@font/arita4_0_m"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="예상 진료 건수 : "/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#66bdbdbd" />
+        <TextView
+            android:id="@+id/instruction2"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="17dp"
+            android:fontFamily="@font/arita4_0_m"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=".."/>
+    </LinearLayout>
+
+
+</LinearLayout>

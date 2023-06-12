@@ -1,0 +1,26 @@
+{
+  "response" : {
+  "header" : {
+    "resultCode" : 0,
+    "resultMsg" : "NORMAL_SERVICE",
+    "type" : "json"    },
+
+  "body" : {
+    "items" : [ {
+      "dissCd" : "1",
+      "dt" : "20230409",
+      "znCd" : "26",
+      "lowrnkZnCd" : "26110",
+      "cnt" : 82,
+      "risk" : 1,
+      "dissRiskXpln" : "환기를 자주 시켜 깨끗한 환경을 유지하고, 외출 후에는 반드시 손을 씻는 등 평소 손 씻기를 생활화합니다."
+    }, {
+      "dissCd" : "1",
+      "dt" : "20230409",
+      "znCd" : "26",
+      "lowrnkZnCd" : "26140",
+      "cnt" : 207,        "risk" : 1,
+      "dissRiskXpln" : "환기를 자주 시켜 깨끗한 환경을 유지하고, 외출 후에는 반드시 손을 씻는 등 평소 손 씻기를 생활화합니다."      }, {        "dissCd" : "1",        "dt" : "20230409",        "znCd" : "26",        "lowrnkZnCd" : "26170",        "cnt" : 169,        "risk" : 1,        "dissRiskXpln" : "환기를 자주 시켜 깨끗한 환경을 유지하고, 외출 후에는 반드시 손을 씻는 등 평소 손 씻기를 생활화합니다."      }, {        "dissCd" : "1",        "dt" : "20230409",        "znCd" : "26",        "lowrnkZnCd" : "26200",        "cnt" : 231,        "risk" : 1,        "dissRiskXpln" : "환기를 자주 시켜 깨끗한 환경을 유지하고, 외출 후에는 반드시 손을 씻는 등 평소 손 씻기를 생활화합니다."      }, {        "dissCd" : "1",        "dt" : "20230409",        "znCd" : "26",        "lowrnkZnCd" : "26230",        "cnt" : 693,        "risk" : 1,        "dissRiskXpln" : "환기를 자주 시켜 깨끗한 환경을 유지하고, 외출 후에는 반드시 손을 씻는 등 평소 손 씻기를 생활화합니다."      }, {        "dissCd" : "1",        "dt" : "20230409",        "znCd" : "26",        "lowrnkZnCd" : "26260",        "cnt" : 493,        "risk" : 1,        "dissRiskXpln" : "환기를 자주 시켜 깨끗한 환경을 유지하고, 외출 후에는 반드시 손을 씻는 등 평소 손 씻기를 생활화합니다."      }, {        "dissCd" : "1",        "dt" : "20230409",        "znCd" : "26",        "lowrnkZnCd" : "26290",        "cnt" : 513,        "risk" : 1,        "dissRiskXpln" : "환기를 자주 시켜 깨끗한 환경을 유지하고, 외출 후에는 반드시 손을 씻는 등 평소 손 씻기를 생활화합니다."      }, {        "dissCd" : "1",        "dt" : "20230409",        "znCd" : "26",        "lowrnkZnCd" : "26320",        "cnt" : 549,        "risk" : 1,        "dissRiskXpln" : "환기를 자주 시켜 깨끗한 환경을 유지하고, 외출 후에는 반드시 손을 씻는 등 평소 손 씻기를 생활화합니다."      }, {        "dissCd" : "1",        "dt" : "20230409",        "znCd" : "26",        "lowrnkZnCd" : "26350",        "cnt" : 757,        "risk" : 1,        "dissRiskXpln" : "환기를 자주 시켜 깨끗한 환경을 유지하고, 외출 후에는 반드시 손을 씻는 등 평소 손 씻기를 생활화합니다."      }, {        "dissCd" : "1",        "dt" : "20230409",        "znCd" : "26",        "lowrnkZnCd" : "26380",        "cnt" : 614,        "risk" : 1,        "dissRiskXpln" : "환기를 자주 시켜 깨끗한 환경을 유지하고, 외출 후에는 반드시 손을 씻는 등 평소 손 씻기를 생활화합니다."      } ],
+    "totalCount" : 16,      "numOfRows" : 10,      "pageNo" : 1    }
+  }
+}

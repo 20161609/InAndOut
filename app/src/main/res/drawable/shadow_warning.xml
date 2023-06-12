@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- Drop Shadow Stack -->
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#00ff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#06ff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#09ff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#0Bff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#0Dff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#10ff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#12ff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#15ff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#17ff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#19ff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#1bff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#1dff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#1fff6400" /><corners android:radius="13dp" /></shape></item>
+    <item><shape><padding android:bottom="1.1dp" android:left="1.1dp" android:right="1.1dp" android:top="1.1dp" /><solid android:color="#2fff6400" /><corners android:radius="13dp" /></shape></item>
+
+    <!-- Background -->
+    <item> <shape> <solid android:color="#FFFFFF" /> <corners android:radius="13dp" /> </shape> </item>
+</layer-list>

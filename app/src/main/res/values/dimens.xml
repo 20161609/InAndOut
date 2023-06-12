@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="viewpager_padding">16dp</dimen>
+    <dimen name="view_height">1dp</dimen>
+</resources>
