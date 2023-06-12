@@ -295,7 +295,7 @@ class Test1 : AppCompatActivity() {
                 putExtra(Intent.EXTRA_TEXT, healthInfo)
                 type = "text/plain"
             }
-
+//seefse
             startActivity(Intent.createChooser(shareIntent, "Share Health Info"))
         }
         Log.e("Begin","FF")
